@@ -315,10 +315,10 @@
 .membership__steps {
   list-style-type: none;
   padding: 0;
-  margin: 100px 0 0;
+  margin: 100px auto 0;
   display: flex;
   width: 1080px;
-  row-gap: 40px;
+  column-gap: 40px;
   justify-content: center;
 }
 
