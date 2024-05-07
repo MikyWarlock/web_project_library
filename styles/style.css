@@ -308,7 +308,7 @@
 
 .membership__title {
   max-width: 574px;
-  margin: 0 auto;
+  margin-bottom: 100px;
   text-align: center;
   font-size: 44px;
   font-weight: 500;
@@ -318,7 +318,7 @@
 .membership__steps {
   list-style-type: none;
   padding: 0;
-  margin-top: 100px;
+  margin: 0;
   display: flex;
   width: 1080px;
   column-gap: 40px;
